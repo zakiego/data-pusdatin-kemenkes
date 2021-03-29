@@ -1,16 +1,14 @@
 # Data Pusdatin Kementrian Kesehatan
 
-#### Data Tanggal
+#### Tanggal Data
 - 24 Maret 2021
 - 28 Maret 2021
 
 #### Data Yang Tersedia
-- Kasus Kumulatif
-  - Berdasarkan usia
-  - Berdasarkan jenis kelamin
-- Kasus Dirawat
-- Kasus Sembuh
-- Kasus Meninggal
+
+- Kasus positif **berdasarkan usia** per provinsi
+- Kasus positif **berdasarkan jenis kelamin** per provinsi
+- Kasus kumulatif, dirawat, sembuh, dan meninggal per provinsi
 - Daftar rumah sakit
 - Daftar laboratorium
 
