@@ -1,4 +1,4 @@
-# Data Pusdatin Kementrian Kesehatan
+# Data Covid-19 Pusdatin Kementrian Kesehatan
 
 #### Tanggal Data
 - 24 Maret 2021
