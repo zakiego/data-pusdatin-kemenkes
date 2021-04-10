@@ -17,9 +17,9 @@ Sumber data : API ```https://data.covid19.go.id/public/api/prov.json```
 ### Install Packages
 
 ```R
-install.packages(httr)
-install.packages(dplyr)
-install.packages(tidyverse)
+install.packages('httr')
+install.packages('dplyr')
+install.packages('tidyverse')
 ```
 
 ### Library
