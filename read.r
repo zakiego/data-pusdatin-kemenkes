@@ -129,7 +129,7 @@ write.csv(db_kelompok_umur, "kumulatif_provinsi_kelompok_umur.csv", row.names = 
 write.csv(db_jenis_kelamin, "kumulatif_provinsi_jenis_kelamin.csv", row.names = FALSE)
 
 write.csv(db_kelompok_umur_pivot, "kumulatif_provinsi_kelompok_umur_pivot.csv", row.names = FALSE)
-write.csv(db_jenis_kelamin_pivot, "kumulatif_provinsi_jenis_kelamin_pivot.csv")
+write.csv(db_jenis_kelamin_pivot, "kumulatif_provinsi_jenis_kelamin_pivot.csv", row.names = FALSE)
 
 # google sheets
 
